@@ -8,6 +8,8 @@
 //  return 0;
 // }
 
+//output:-2
+
 //--------------------------------------------------------------------------------------
 // #include<iostream>
 // using namespace std;
@@ -20,6 +22,10 @@
 //     }
 //  return 0;
 // }
+
+//output:-2,3,4,5,6
+
+
 //---------------------------------------------------------------------------------------
 // index of 0 is represent the name of the variBLE OF A DATATYPE..
 
@@ -42,6 +48,8 @@
 // }
 //  return 0;
 // }
+//output:-whatever user input will be printed here
+
 //-------------------------------------------------------------------------
 // array and function using for print
 
@@ -71,6 +79,9 @@
 // print(arr,size);
 //  return 0;
 // }
+//output:-entering size and elements by user and that will be print .
+
+
 //---------------------------------------------------------------------------
 // #include<iostream>
 // using namespace std;
@@ -92,6 +103,8 @@
 //    cout<< getmax(arr,5);
 //  return 0;
 // }
+
+//output:-7
 //------------------------------------------------------------------------------------
 // #include<iostream>
 // using namespace std;
